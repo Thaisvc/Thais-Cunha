@@ -27,5 +27,5 @@
 &nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisvc&theme=dark" alt="thaisvc" />                                        </div>                                                                                 
-   ![Snake animation](https://github.com/thaisvc/dist/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Thaisvc/Thais-Cunha/blob/output/github-contribution-grid-snake.svg)
                                                                                                                 
