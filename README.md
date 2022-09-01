@@ -28,4 +28,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaisvc&theme=dark" alt="thaisvc" />                                        </div>                                                                                 
   
-   ![Snake animation](https://github.com/Thaisvc/blob/output/github-contribution-grid-snake.svg)                                                                                                               
+  ![Snake animation](https://github.com/thaisvc/thaisvc/blob/output/github-contribution-grid-snake.svg)                                                                                                         
