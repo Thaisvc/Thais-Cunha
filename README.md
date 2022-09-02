@@ -6,10 +6,10 @@
 <img  height="280em" width="100%" src="a9098f918cbddb65-the-matrix-hd.gif.df198e3a65e0dcc7745b6257cdf8b2f7.gif">
 </div><br>
 
- <div>                                                                                                                              
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
-
-&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
+ <div style="display: inline_flex">                                                                                                                              
+ <img height="280em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
+&nbsp;
+<img height="280em" width="380" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
     
   </div>
  
