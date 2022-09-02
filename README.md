@@ -32,7 +32,10 @@
 <img align="center" height="50" width="100" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />  &nbsp;  &nbsp;    
                                                                                                                                       
 </div>
-                                                                                                                                 
+<br><br>
+  <div>
+   <a href="https://www.linkedin.com/in/thais-viana-7285a6177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 <br>
                                                                                             
    ![Snake animation](https://github.com/Thaisvc/Thais-Cunha/blob/output/github-contribution-grid-snake.svg)
