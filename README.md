@@ -2,10 +2,19 @@
 <h3 align="center">Trybe Student Full Stack Development</h3>
 <br>
 <div class="container">
-<img src="d280800ed0695e0e10bc31e22f123a6d.jpg">
-</div>
-<h3 align="left"><i>Languages and Tools:</i></h3>
-<div><br>
+<img  height="280em" width="100%" src="a9098f918cbddb65-the-matrix-hd.gif.df198e3a65e0dcc7745b6257cdf8b2f7.gif">
+</div><br>
+
+ <div align="center">                                                                                                                              
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
+
+&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
+
+<img align="left" height="180em" width="380"  src="https://github-readme-streak-stats.herokuapp.com/?user=thaisvc&theme=dark" alt="thaisvc" />      
+  </div>
+  <br><br><br> <br><br><br><br><br><br><br>
+
+<div style="display: inline_block"><br>
 <img align="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="50" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -25,11 +34,6 @@
 </div>
                                                                                                                                  
 <br>
-  <div align="left">                                                                                                                               
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
-
-&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
-
-<img align="left" height="180em" width="380"  src="https://github-readme-streak-stats.herokuapp.com/?user=thaisvc&theme=dark" alt="thaisvc" />                    </div>                                                                                 
+                                                                                            
    ![Snake animation](https://github.com/Thaisvc/Thais-Cunha/blob/output/github-contribution-grid-snake.svg)
                                                                                                                 
