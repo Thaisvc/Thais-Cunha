@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thais Viana</h1>
 <h3 align="center">Trybe Student Full Stack Development</h3>
 <br>
+<div class="container">
+<img src="d280800ed0695e0e10bc31e22f123a6d.jpg">
+</div>
 <h3 align="left"><i>Languages and Tools:</i></h3>
 <div><br>
 <img align="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
