@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thais Viana</h1>
 <h3 align="center">Trybe Student Full Stack Development</h3>
-<br>
+
 <hr>
 <div class="container">
 <img  height="280em" width="100%" src="a9098f918cbddb65-the-matrix-hd.gif.df198e3a65e0dcc7745b6257cdf8b2f7.gif">
-</div><br>
+</div>
 
  <div style="display: inline_flex"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <img  height="280em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
 &nbsp;
 <img height="280em" width="380" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
