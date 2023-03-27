@@ -9,7 +9,7 @@
  <div style="display: inline_flex"> 
 
  <img  height="280em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisvc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="thaisvc" />
-&nbsp;
+
 <img height="280em" width="400" src="https://github-readme-stats.vercel.app/api?username=thaisvc&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1840&locale=en" alt="thaisvc" />
     
   </div>
